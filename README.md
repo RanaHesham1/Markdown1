@@ -25,5 +25,5 @@ I am <del>going to</del>  __university__  _next week_
 
 |Animals|computer|vechils|
 |-------:|:--------:|:-------|
-| cat|pc |car|
+| ![seqq](seqassig.png)|pc |car|
 |dog|mainframe |bike|
