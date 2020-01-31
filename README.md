@@ -22,3 +22,8 @@ I am <del>going to</del>  __university__  _next week_
    * old
  2. female
  3. both
+
+|Animals|computer|vechils|
+|-------:|:--------:|:-------|
+| cat|pc |car|
+|dog|mainframe |bike|
