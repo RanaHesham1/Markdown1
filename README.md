@@ -8,3 +8,5 @@ I am <del>going to</del>  __university__  _next week_
 
 [facebook](https//www.facebook.com)
 ![laptop](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQobmIE6M_WHs2483l_fmOxa14xQxYGzugAQZx2SHZ-ThTbJ8uu)
+
+![pic1](seqassig.png)
